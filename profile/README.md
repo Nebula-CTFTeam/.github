@@ -1,3 +1,3 @@
 # Nebula-CTFTeam
 
-We are [Nebula](https://nebuu.la/).
+We are [Nebula](nebuu.la).
